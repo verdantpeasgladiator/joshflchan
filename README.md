@@ -2,7 +2,7 @@
 ---
 - 👨‍💻 I’m currently interning as a Software Engineer at Apple. 
 - 📚 I'm a full-time student in my 5th year studying business and computer science at UBC -- expected to graduate in Nov 2022. 
-- 🌱 I previously participated in [Google's Software Product Sprint](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/) program this summer.
+- 🌱 I previously participated in [Google's Software Product Sprint](https://buildyourfuture.withgoogle.com/programs/softwareproductsprint/) program.
 - 😍 Check out my [portfolio](https://joshflchan.github.io/).
 - 😄 Pronouns: (he/him)
 - 📫 How to reach me: [LinkedIn](http://linkedin.com/in/joshflchan) | [Email](mailto:josh.fl.chan@gmail.com)
